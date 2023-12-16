@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Varnika chaudhary
 - 👀 I’m a full stack web developer
-- 🌱 I’m currently learning anglar
+- 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on projects of web development
 - 📫 How to reach me :
 -  contact-8006990108
